@@ -1,8 +1,8 @@
 # GonzalezFabian_Mayor
 Números a comparar entre 3 y 5
 # Programa: Número mayor entre N números (mínimo 3, máximo 5)
-# Autor: [Tu Nombre y Apellido]
-# Archivo: ApellidoNombre_Mayor.asm
+# Autor: [Fabian Gonzalez]
+# Archivo: GonzalezFabian_Mayor.asm
 # Descripción: El programa solicita al usuario cuántos números quiere comparar (3 a 5),
 #              luego lee cada número por consola y determina cuál es el mayor.
 #              Finalmente muestra el número mayor en pantalla.
